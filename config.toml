@@ -1,0 +1,4 @@
+baseURL = "https://cartoonmerthuliet.vercel.app"
+languageCode = "en-us"
+title = "Cartoon Network Picture"
+theme = "tale-hugo-master"
